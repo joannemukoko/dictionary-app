@@ -14,7 +14,22 @@ function App() {
       </div>
       <footer className="App-footer">
         <small>
-          This app was coded by Joanne Mukoko and is open-sourced on Github
+          This project was coded by{" "}
+          <a
+            href="https://www.linkedin.com/joannemukoko"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Joanne Mukoko
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/joannemukoko/dictionary-app"
+            targt="_blank"
+            rel="noreferrer"
+          >
+            open-sourced on Github
+          </a>
         </small>
       </footer>
     </div>
